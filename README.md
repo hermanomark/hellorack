@@ -1,0 +1,1 @@
+## Ruby rack exercise we've made in <a href='https://www.womenwhocode.com'>WWCode</a> Ruby on Rails study group.
