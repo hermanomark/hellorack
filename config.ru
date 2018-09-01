@@ -24,3 +24,6 @@ end
 
 use ToUpper
 run Hello.new
+
+# To run, in command line type rackup, by default it will run config.ru
+# To run specific .ru file, type rackup filename.ru
